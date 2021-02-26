@@ -1,1 +1,1 @@
-# esempio
+# Progetto esempio di GitHub
